@@ -1,0 +1,43 @@
+// Config
+// ----------------------------------------------
+// Think of this file as the control center of
+// the projects variables. These variables are
+// made to be customized for each project.
+
+// Spacings
+// Used mostly in _margin.scss and _padding.scss
+$space1:	20px;
+$space2:	30px;
+$space3:	40px;
+$space4:	50px;
+$space5:	60px;
+$space6:	70px;
+
+// Headings
+// Feel free to change this according to the
+// projects type scale
+$h1:	24px;
+$h2:	22px;
+$h3:	18px;
+$h4:	16px;
+$h5:	12px;
+$h6:	10px;
+
+// Fonts
+$helvetica: Helvetica Neue, Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+
+// Weights
+// Standard font weights
+$fw4: 400;
+$fw5: 500;
+$fw7: 700;
+
+// Grid
+// The main width of the website
+$grid-width: 960px;
+
+// Queries
+$sm: 30em;
+$md: 50em;
+$lg: 68.750em;

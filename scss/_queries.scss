@@ -1,0 +1,30 @@
+.sm-show, .md-show, .lg-show {
+  display: none !important
+}
+
+@media (min-width: $sm) {
+  .sm-show { display: block !important }
+}
+
+@media (min-width: $md) {
+  .md-show { display: block !important }
+}
+
+@media (min-width: $lg) {
+  .lg-show { display: block !important }
+}
+
+
+@media (min-width: $sm) {
+  .sm-hide { display: none !important }
+}
+
+@media (min-width: $md)  {
+  .md-hide { display: none !important }
+}
+
+@media (min-width: $lg) {
+  .lg-hide { display: none !important }
+}
+
+.dispaly-none { display: none !important }

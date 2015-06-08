@@ -1,0 +1,34 @@
+// Etc
+// ----------------------------------------------
+// Besides _config.scss, this is the only file
+// that is intended to be customized for each
+// project. Below are demo styles.
+
+body {
+  font-family: $helvetica;
+  font-weight: $fw4;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $helvetica;
+  margin-top: 0;
+}
+
+.f1 { font-size: 14px; line-height: 14px * 1.5; }
+.f2 { font-size: 15px; line-height: 15px * 1.5; }
+.f3 { font-size: 16px; line-height: 16px * 1.5; }
+.f4 { font-size: 18px; line-height: 18px * 1.6; }
+.f5 { font-size: 19px; line-height: 19px * 1.6; }
+.f6 { font-size: 25px; line-height: 25px * 1.6; }
+.f7 { font-size: 32px; line-height: 32px * 1.5; }
+.f8 { font-size: 48px; line-height: 48px * 1.5; }
+
+.georgia    { font-family: $georgia; }
+.helvetica  { font-family: $helvetica; }
+
+.container {
+  @extend %clearfix;
+  max-width: $grid-width;
+  margin: 0 auto;
+}
