@@ -8,7 +8,7 @@ Kiwi is a lightweight collection of modular CSS. Together each immutable utility
 -   [Download latest version](https://github.com/bgian/kiwi/archive/master.zip)
 
 ## Features
--   Less than 5KB
+-   Less than 1KB
 -   Straightforward naming conventions
 -   Easy to customize
 -   Responsive
