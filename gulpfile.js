@@ -18,7 +18,7 @@ gulp.task('sass', function () {
         .pipe(gulp.dest('css'))
     .pipe(size({gzip: false, showFiles: true, title:'original'}))
     .pipe(minifyCSS())
-    .pipe(size({gzip: false, showFiles: true, title:'minified'}))
+    .pipe(size({gzip: true, showFiles: true, title:'minified'}))
     .pipe(rename({
         suffix: '.min'
     }))

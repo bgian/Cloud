@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
 }
 
-.block {
+.show {
   display: block;
 }
 
@@ -80,6 +80,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .table-cell {
   display: table-cell;
+}
+
+.hide {
+  display: none;
 }
 
 .flex {
@@ -530,10 +534,6 @@ h1, h2, h3, h4, h5, h6 {
   .lg-hide {
     display: none !important;
   }
-}
-
-.dispaly-none {
-  display: none !important;
 }
 
 .regular {
