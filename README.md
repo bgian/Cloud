@@ -15,7 +15,7 @@ MCSS is a lightweight collection of modular CSS. Together each immutable utility
 -   No colors
 
 ## Purpose
-The purpose of creating Kiwi was to have a modular starting point for my projects. I'm focused on creating a collection of utilities that do one thing and do one thing really well.
+The purpose of creating MCSS was to have a modular starting point for my projects. I'm focused on creating a collection of utilities that do one thing and do one thing really well.
 
 ### Support
 -   [hi@bobby.so](mailto:hi@bobby.so)
