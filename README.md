@@ -1,4 +1,4 @@
-# MCSS
+# Cloud
 
 MCSS is a lightweight collection of modular CSS. Together each immutable utility creates a speedy and scalable project. Inspired by the common styles I use for projects and the habit of changing visuals constantly.
 
